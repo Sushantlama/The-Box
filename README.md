@@ -33,7 +33,7 @@ Alternatively, you can download the repository as a ZIP file and extract it.
 
 3. Build the project and resolve any dependencies if required.
 
-4. Run the main class `.thebox.Game` to start the game.
+4. Run the main class `Box/src/game/main.java` to start the game.
 
 ## Screenshots
 
@@ -41,7 +41,6 @@ Alternatively, you can download the repository as a ZIP file and extract it.
   <img src="https://github.com/Sushantlama/The-Box/blob/main/res/page-1.png?raw=true" width="330" />
   <img src="https://github.com/Sushantlama/The-Box/blob/main/res/page-2.png?raw=true" width="330" />
   <img src="https://github.com/Sushantlama/The-Box/blob/main/res/page-3.png?raw=true" width="330" /> 
-  
 </p>
 
 ## License
