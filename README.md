@@ -45,4 +45,4 @@ Alternatively, you can download the repository as a ZIP file and extract it.
 
 ## License
 
-"The Box" is released under the [MIT License](LICENSE).
+"The Box" is released under the [MIT License](https://github.com/Sushantlama/The-Box/blob/main/LICENSE).
